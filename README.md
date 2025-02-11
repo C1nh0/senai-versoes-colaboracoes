@@ -1,6 +1,7 @@
 # Versionamento
 
-## Arquivo teste para o curso de desenvolvimento FullStack do Senai - 2025.
+# Arquivo teste para o curso de desenvolvimento FullStack do Senai - 2025.
 
-1-Lembrei do comando git status;
-2-Lembrei do comando git commit;
+Lembrei do comando git status
+Lembrei do comando git commit
+
